@@ -107,7 +107,7 @@
   align-self: stretch;
   font-style: SemiBold;
   text-align: justified;
-  font-family: Montserrat;
+  font-family: "Montserrat";
   font-weight: 600;
   line-height: normal;
   font-stretch: normal;
@@ -270,9 +270,12 @@
   }
 }
 @media(max-width: 479px) {
+  .three-ears-three-ears {
+    padding: var(--dl-space-space-unit);
+  }
   .three-ears-text {
     color: var(--dl-color-default-warmwhite);
-    font-size: 70px;
+    font-size: 55px;
     font-family: Montserrat;
     font-weight: 900;
     line-height: normal;
@@ -280,7 +283,7 @@
   }
   .three-ears-text01 {
     color: var(--dl-color-default-warmwhite);
-    font-size: 50px;
+    font-size: 35px;
     font-family: Montserrat;
     font-weight: 900;
     line-height: normal;

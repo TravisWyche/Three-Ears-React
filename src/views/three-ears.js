@@ -64,8 +64,8 @@ const ThreeEars = (props) => {
         <span className="three-ears-text11">Web3 + Community Stewardship</span>
         <span className="three-ears-text12">
           TW&apos;s engagement with web3 economics and governance structures
-          through associations with Moloch DAO, Gitcoin, DAOhaus, Raid Guild,
-          and MetaCartel, among others, underscores our venture into community
+          through associations with Moloch DAO, Gitcoin, DAOhaus, RaidGuild, and
+          MetaCartel, among others, underscores our venture into community
           stewardship and progressively decentralized governance. We envision a
           synergy between the bleeding-edge web3 domain and the creative
           insights of artists, aiming to foster a refreshed pluriversal
