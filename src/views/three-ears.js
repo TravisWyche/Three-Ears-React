@@ -35,7 +35,7 @@ const ThreeEars = (props) => {
         </span>
         <span className="three-ears-text07">
           <span className="three-ears-text08">
-            Over the past four years, steward TW has devoted himself to
+            Over the past four years, steward we have devoted ourselves to
             rehabilitating the land and dwelling within the ship, engaging in
             ecological, architectural, conceptual, and aesthetic explorations.
             This Earthship is not only a hub for technological and design
