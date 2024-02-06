@@ -80,7 +80,7 @@ const ThreeEars = (props) => {
         </span>
         <span className="three-ears-text13">send us a smoke signal</span>
         <a
-          href="https://telegram/threeears"
+          href="https://t.me/+_QuKu3sRkM05MWMx"
           target="_blank"
           rel="noreferrer noopener"
           className="three-ears-text14"
@@ -88,7 +88,7 @@ const ThreeEars = (props) => {
           telegram
         </a>
         <a
-          href="mailto:hello@threeears.com?subject=Can I be a part of Cohort One?"
+          href="mailto:threeears@proton.me?subject=Can I be a part of Cohort One?"
           className="three-ears-text15"
         >
           eh mail
