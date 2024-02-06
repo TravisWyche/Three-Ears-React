@@ -23,12 +23,12 @@ const ThreeEars = (props) => {
           titular Tres Orejas peaks, in the southern part of the Sangre de
           Cristo mountain range. The area&apos;s high-altitude temperate desert
           climate offers dry cold winters and gentle warm summers, creating an
-          idyllic setting for individual and small group creative practices. Our
+          idyllic setting for individual and small group practices. Our
           1,000-square-foot Earthship captures water from the sky, generates
           electricity from the sun, and is a marvel of sustainable living amidst
-          the sagebrush ocean of the Carson National Forest with profound
-          opportunity to experience the range of the land’s cycles, in a space
-          built with regard and respect for them.
+          the sagebrush ocean with profound opportunity to experience the range
+          of the land’s cycles, in a space built with regard and respect for
+          them.
         </span>
         <span className="three-ears-text06">
           A Commitment to Reciprocity and Exchange
