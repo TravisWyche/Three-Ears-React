@@ -1,0 +1,370 @@
+.three-ears-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.three-ears-three-ears {
+  gap: 40px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 40px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("/external/8688612c-8355-494f-a01e-a14ccd2aafa6-m6hm-1500w.webp");
+}
+.three-ears-text {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 200px;
+  align-self: stretch;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.three-ears-text01 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 96px;
+  align-self: stretch;
+  font-style: Black;
+  text-align: left;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.three-ears-text05 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.three-ears-text06 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Black;
+  text-align: left;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.three-ears-text07 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.three-ears-text11 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Black;
+  text-align: left;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.three-ears-text12 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.three-ears-text13 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Black;
+  text-align: left;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.three-ears-text14 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Black;
+  text-align: left;
+  transition: 0.3s;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.three-ears-text14:hover {
+  color: #fff596;
+}
+.three-ears-text14:active {
+  color: #ccff98;
+}
+.three-ears-text15 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Black;
+  text-align: left;
+  transition: 0.3s;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.three-ears-text15:hover {
+  color: #fff596;
+}
+.three-ears-text15:active {
+  color: #ccff98;
+}
+.three-ears-frame2 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.three-ears-threeearslogo1 {
+  width: 350px;
+  height: 145px;
+}
+@media(max-width: 991px) {
+  .three-ears-text {
+    font-size: 150px;
+  }
+  .three-ears-text01 {
+    font-size: 80px;
+  }
+  .three-ears-text05 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .three-ears-text06 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 36px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .three-ears-text07 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .three-ears-text08 {
+    font-weight: 600;
+  }
+  .three-ears-text09 {
+    font-weight: 900;
+  }
+  .three-ears-text11 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 36px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .three-ears-text12 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .three-ears-text13 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 36px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .three-ears-text14 {
+    font-size: 36px;
+  }
+  .three-ears-text15 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 36px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .three-ears-threeearslogo1 {
+    width: 301px;
+    height: 124px;
+  }
+}
+@media(max-width: 767px) {
+  .three-ears-text {
+    font-size: 100px;
+  }
+  .three-ears-text01 {
+    font-size: 65px;
+  }
+}
+@media(max-width: 479px) {
+  .three-ears-text {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 70px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .three-ears-text01 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 50px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .three-ears-text05 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .three-ears-text06 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .three-ears-text07 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .three-ears-text08 {
+    font-weight: 600;
+  }
+  .three-ears-text09 {
+    font-weight: 900;
+  }
+  .three-ears-text11 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .three-ears-text12 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .three-ears-text13 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .three-ears-text14 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .three-ears-text15 {
+    color: var(--dl-color-default-warmwhite);
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .three-ears-threeearslogo1 {
+    width: 238px;
+    height: 98px;
+    align-self: flex-start;
+  }
+}
