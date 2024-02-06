@@ -127,7 +127,7 @@
   text-transform: uppercase;
   text-decoration: none;
 }
-.three-ears-text14 {
+.three-ears-text20 {
   color: var(--dl-color-default-warmwhite);
   height: auto;
   font-size: 40px;
@@ -142,13 +142,13 @@
   text-transform: uppercase;
   text-decoration: none;
 }
-.three-ears-text14:hover {
+.three-ears-text20:hover {
   color: #fff596;
 }
-.three-ears-text14:active {
+.three-ears-text20:active {
   color: #ccff98;
 }
-.three-ears-text15 {
+.three-ears-text21 {
   color: var(--dl-color-default-warmwhite);
   height: auto;
   font-size: 40px;
@@ -163,10 +163,10 @@
   text-transform: uppercase;
   text-decoration: none;
 }
-.three-ears-text15:hover {
+.three-ears-text21:hover {
   color: #fff596;
 }
-.three-ears-text15:active {
+.three-ears-text21:active {
   color: #ccff98;
 }
 .three-ears-frame2 {
@@ -244,10 +244,10 @@
     text-transform: uppercase;
     text-decoration: none;
   }
-  .three-ears-text14 {
+  .three-ears-text20 {
     font-size: 36px;
   }
-  .three-ears-text15 {
+  .three-ears-text21 {
     color: var(--dl-color-default-warmwhite);
     font-size: 36px;
     font-family: Montserrat;
@@ -340,14 +340,20 @@
   }
   .three-ears-text13 {
     color: var(--dl-color-default-warmwhite);
-    font-size: 24px;
-    font-family: Montserrat;
-    font-weight: 900;
-    line-height: normal;
-    text-transform: uppercase;
-    text-decoration: none;
   }
   .three-ears-text14 {
+    font-weight: 900;
+  }
+  .three-ears-text15 {
+    font-weight: 900;
+  }
+  .three-ears-text16 {
+    font-weight: 900;
+  }
+  .three-ears-text17 {
+    font-weight: 900;
+  }
+  .three-ears-text20 {
     color: var(--dl-color-default-warmwhite);
     font-size: 24px;
     font-family: Montserrat;
@@ -356,7 +362,7 @@
     text-transform: uppercase;
     text-decoration: none;
   }
-  .three-ears-text15 {
+  .three-ears-text21 {
     color: var(--dl-color-default-warmwhite);
     font-size: 24px;
     font-family: Montserrat;

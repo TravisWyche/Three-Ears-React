@@ -35,7 +35,7 @@ const ThreeEars = (props) => {
         </span>
         <span className="three-ears-text07">
           <span className="three-ears-text08">
-            Over the past four years, steward we have devoted ourselves to
+            Over the past four years, we have devoted ourselves to
             rehabilitating the land and dwelling within the ship, engaging in
             ecological, architectural, conceptual, and aesthetic explorations.
             This Earthship is not only a hub for technological and design
@@ -63,8 +63,8 @@ const ThreeEars = (props) => {
         </span>
         <span className="three-ears-text11">Web3 + Community Stewardship</span>
         <span className="three-ears-text12">
-          TW&apos;s engagement with web3 economics and governance structures
-          through associations with Moloch DAO, Gitcoin, DAOhaus, RaidGuild, and
+          Our engagement with web3 economics and governance structures through
+          associations with Moloch DAO, Gitcoin, DAOhaus, RaidGuild, and
           MetaCartel, among others, underscores our venture into community
           stewardship and progressively decentralized governance. We envision a
           synergy between the bleeding-edge web3 domain and the creative
@@ -78,18 +78,29 @@ const ThreeEars = (props) => {
           to cultivate a sustainable and fertile microclimate for our inaugural
           cohort to dream boldly together.
         </span>
-        <span className="three-ears-text13">send us a smoke signal</span>
+        <span className="three-ears-text13">
+          <span className="three-ears-text14">
+            we are currently curating the first cohort of the residency program
+          </span>
+          <br className="three-ears-text15"></br>
+          <br className="three-ears-text16"></br>
+          <span className="three-ears-text17">
+            if you are interested in participating
+          </span>
+          <br></br>
+          <span>send us a smoke signal</span>
+        </span>
         <a
           href="https://t.me/+_QuKu3sRkM05MWMx"
           target="_blank"
           rel="noreferrer noopener"
-          className="three-ears-text14"
+          className="three-ears-text20"
         >
           telegram
         </a>
         <a
           href="mailto:threeears@proton.me?subject=Can I be a part of Cohort One?"
-          className="three-ears-text15"
+          className="three-ears-text21"
         >
           eh mail
         </a>
