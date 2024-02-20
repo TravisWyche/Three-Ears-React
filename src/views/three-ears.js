@@ -91,16 +91,24 @@ const ThreeEars = (props) => {
           <span>send us a smoke signal</span>
         </span>
         <a
-          href="https://t.me/+_QuKu3sRkM05MWMx"
+          href="https://paragraph.xyz/@threeears/subscribe"
           target="_blank"
           rel="noreferrer noopener"
           className="three-ears-text20"
+        >
+          newsletter
+        </a>
+        <a
+          href="https://t.me/+_QuKu3sRkM05MWMx"
+          target="_blank"
+          rel="noreferrer noopener"
+          className="three-ears-text21"
         >
           telegram
         </a>
         <a
           href="mailto:threeears@proton.me?subject=Can I be a part of Cohort One?"
-          className="three-ears-text21"
+          className="three-ears-text22"
         >
           eh mail
         </a>
